@@ -1,0 +1,11 @@
+[package]
+name = "future-example"
+version = "0.1.0"
+authors = ["readlnh <readlnh@163.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+futures = "0.1.17"
+futures-cpupool = "0.1.7"
